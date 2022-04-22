@@ -1,0 +1,15 @@
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\bin\Debug\net6.0\CNF-SAT.exe
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\bin\Debug\net6.0\CNF-SAT.deps.json
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\bin\Debug\net6.0\CNF-SAT.runtimeconfig.json
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\bin\Debug\net6.0\CNF-SAT.dll
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\bin\Debug\net6.0\CNF-SAT.pdb
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.csproj.AssemblyReference.cache
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.AssemblyInfoInputs.cache
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.AssemblyInfo.cs
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.csproj.CoreCompileInputs.cache
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.dll
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\refint\CNF-SAT.dll
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.pdb
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\CNF-SAT.genruntimeconfig.cache
+C:\Users\Yan-PC\source\repos\Algorithms_2\CNF-SAT\obj\Debug\net6.0\ref\CNF-SAT.dll
